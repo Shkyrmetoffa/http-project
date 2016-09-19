@@ -7,24 +7,13 @@
     ;
 }
 .ng-invalid {
-    /*margin-left: 50px;*/
     height: 30px;
     border: 2px solid black;
 }
-/*.ngcontent-flj-2 {*/
-    /*margin-right: 50px;*/
-/*}*/
+
 .email{
     margin-right: 50px;
 }
-/*.ngcontent-xxs-3 {*/
-    /*margin-left: 50px;*/
-    /*height: 30px;*/
-    /*border: 2px solid black;*/
-/*}*/
-/*label {*/
-    /*position: absolute;*/
-/*}*/
 input {
     height: 30px;
     padding: 4px;
