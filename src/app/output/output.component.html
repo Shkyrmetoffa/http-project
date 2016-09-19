@@ -1,0 +1,4 @@
+<div *ngFor="let user of getUsers()">
+  <span>{{user.fullName}} {{user.email}} <button (click)="removeUser(user)" class="btn btn-default">X</button></span>
+
+</div>

@@ -1,0 +1,27 @@
+.form-group {
+    text-align: center;
+    padding-top: 40px;
+    color: black;
+    font-size: 27px;
+    text-shadow: 3px 3px 11px rgba(148, 10, 202, 0.69);
+    ;
+}
+.ng-invalid {
+    margin-left: 50px;
+    height: 30px;
+    border: 2px solid black;
+}
+input {
+    /*margin-left: 28px;*/
+    height: 30px;
+    border: 2px solid black;
+}
+.btn-default{
+    background: #e4bae4;
+    font-size: large;
+    font-weight: 600;
+    padding: 10px;
+    border: 2px solid #af26af;
+    display: table;
+    margin: 30px auto;
+}
