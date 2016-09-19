@@ -27,8 +27,9 @@ export class UserService {
     (err:Response) => {
       this.err = err.json();
       // console.log (this.err);
+      alert('Type your email and full name, please');
     });
-    alert('Type your email and full name, please');
+
   }
   removeUser(removeFromList) {
     this._http.delete(this._baseUrl + '/' + removeFromList._id).subscribe(() => {
